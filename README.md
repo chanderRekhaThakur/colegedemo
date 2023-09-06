@@ -1,4 +1,4 @@
 # colegedemo
 this my repository
 <br>
-Author-chanderRekha thakur
+Author-chanderRekha
